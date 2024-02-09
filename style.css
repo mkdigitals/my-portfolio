@@ -1,0 +1,14 @@
+body {
+    
+}
+
+p {
+    margin: 1em;
+    text-align: start;
+  }
+
+.box{
+    display: flex;
+    justify-content: space-around;
+    flex-flow: column;
+}
